@@ -1,2 +1,4 @@
 /venv/
-/aut_data.json
+/body_of_bot/aut_data.json
+/jup.ipynb
+*/__pycache__/
